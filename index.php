@@ -309,27 +309,25 @@ while($row = $c_qry->fetch_assoc()){
 
                      <li>
                         <blockquote>
-                           <p>Your work is going to fill a large part of your life, and the only way to be truly satisfied is
-                           to do what you believe is great work. And the only way to do great work is to love what you do.
-                           If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know.
+                           <p>He's a great guy,time conscious, creative and a great manager of resources.
                            </p>
-                           <cite>Steve Jobs</cite>
+                           <cite>Steve Thiga</cite>
                         </blockquote>
                      </li> <!-- slide ends -->
 
                      <li>
                         <blockquote>
-                           <p>“Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.”
+                           <p>I have worked with him as a group leader and i would recommend anyone to work with Mr. Levy. Charismatic and a goal oriented guy.”
                            </p>
-                           <cite>Nelson Mandela</cite>
+                           <cite>Mr. Hopkins </cite>
                         </blockquote>
                      </li> <!-- slide ends -->
 
                      <li>
                         <blockquote>
-                           <p>“The greatest glory in living lies not in never falling, but in rising every time we fall.”
+                           <p>Working ethics and relationship were just top notch while working with him on maintenance of our systems.I had agreat moment with him”
                            </p>
-                           <cite>Nelson Mandela</cite>
+                           <cite>Dr. Karanja</cite>
                         </blockquote>
                      </li> <!-- slide ends -->
 
