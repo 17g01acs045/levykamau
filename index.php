@@ -37,7 +37,7 @@ while($row = $c_qry->fetch_assoc()){
 ?>
       <div class="row banner">
          <div class="banner-text">
-            <h1 class="responsive-headline">I'm <?php echo isset($user) ? ucwords($user['firstname'].' '.$user['lastname']) : ""; ?>.</h1>
+            <h1 class="responsive-headline">I am <?php echo isset($user) ? ucwords($user['firstname'].' '.$user['lastname']) : ""; ?>.</h1>
             <h3><?php echo stripslashes($_settings->info('welcome_message')) ?></h3>
             <hr />
             <ul class="social">
@@ -64,7 +64,7 @@ while($row = $c_qry->fetch_assoc()){
 
          <div class="three columns">
 
-            <img class="profile-pic"  src="<?php echo validate_image("avatar") ?>" alt="" />
+            <img class="profile-pic"  src="portfolio1.jpg" alt="" />
 
          </div>
 
